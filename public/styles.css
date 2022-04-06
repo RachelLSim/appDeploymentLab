@@ -1,5 +1,6 @@
 h1 {
-    color: teal
+    color: teal;
+    justify-content: center;
 }
 
 .body {
