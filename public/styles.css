@@ -1,7 +1,9 @@
 h1 {
     color: teal;
+    font-size: 2em;
     justify-content: center;
     background-repeat: no-repeat;
+    background-size: auto;
 }
 
 .body {
