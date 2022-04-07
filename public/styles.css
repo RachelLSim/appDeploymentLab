@@ -10,7 +10,8 @@ header {
 }
 
 h1 {
-    color: teal;
+    color: white;
+    text-shadow: blur-radius cornflowerblue 5px;
     font-size: 50pt;
     justify-content: center;
     padding: 0px;
@@ -25,7 +26,7 @@ h1 {
 }
 
 .break1 {
-    border: 5px solid darkblue
+    border: 5px solid white;
 }
 
 img {
